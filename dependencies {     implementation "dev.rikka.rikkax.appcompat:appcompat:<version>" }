@@ -1,0 +1,3 @@
+dependencies {
+    implementation "dev.rikka.rikkax.appcompat:appcompat:<version>"
+}
